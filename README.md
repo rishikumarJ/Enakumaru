@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Enakumaru
+- 👋 Hi, I’m @Enakumaru<img align="right" src="https://github-readme-stats.vercel.app/api?username=Enakumaru&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 - 👀 I’m interested in Cloud Computing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on project python for beginners 
